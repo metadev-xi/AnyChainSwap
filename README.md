@@ -21,7 +21,7 @@ After API observe the burn event , it calls the mint function of the Binance Sma
 # Run it
 
       - Make Sure you have Installed Truffle Suit
-      - Clone the repository using the command `git clone https://github.com/umaresso/ETH-To-BSC-Bridge` 
+      - Clone the repository using the command `git clone https://github.com/metadev-xi/AnyChainSwap` 
       - Open the newly created repository after cloning
       - In the Truffle config , enter your own mnemonic 
       - In the scripts and migration files , enter the private keys and mnemonic by your own testwallets
